@@ -1,0 +1,14 @@
+@font-face {
+    font-family: 'SFPro';
+    src        : url(../assets/font/SF-Pro-Display-Regular.otf);
+}
+
+@font-face {
+    font-family: 'PlayfairDisplay';
+    src        : url(../assets/font/PlayfairDisplay-Regular.ttf);
+}
+
+@font-face {
+    font-family: 'Montserrat';
+    src        : url(../assets/font/Montserrat-Regular.ttf);
+}
