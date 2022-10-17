@@ -28,7 +28,7 @@
     <link rel="stylesheet" href="./components/reset.css">
     <link rel="stylesheet" href="./components/header/header.css">
     <link rel="stylesheet" href="./components/footer/footer.css">
-    <link rel="stylesheet" href="./components/day-nignt/style.css">
+    <link rel="stylesheet" href="./components/day-night/style.css">
 </head>
 
 <body>
