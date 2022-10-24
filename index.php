@@ -36,7 +36,7 @@
     <div>
         <a href="#">Trương Ngọc Minh</a>
         <a href="#">@minhcecilio</a>
-        <a href="#">Software engineer</a>
+        <a href="#">Engineer</a>
         <!--        -->
         <i class="bi bi-apple"></i>
         <i class="bi bi-strava"></i>
