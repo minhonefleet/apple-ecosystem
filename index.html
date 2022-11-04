@@ -7,12 +7,6 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title> Front-end Project </title>
     <link rel="shortcut icon" href="./assets/img/apple/apple-logo-gray.png" type="image/x-icon">
-    <!-- Bootstrap dist v5.2.2 -->
-    <link rel="stylesheet" href="./plugins/bootstrap/bootstrap.min.css">
-    <script src="./plugins/bootstrap/bootstrap.bundle.min.js"></script>
-    <!-- Bootstrap popper v5.2.2 -->
-    <script src="./plugins/bootstrap/popper.min.js"></script>
-    <script src="./plugins/bootstrap/bootstrap.min.js"></script>
     <!-- Bootstrap icons v1.9.1 -->
     <link rel="stylesheet" href="./plugins/bootstrap-icons/bootstrap-icons.css">
     <!-- GreenSock (GASP) animation v3.11.1 -->
