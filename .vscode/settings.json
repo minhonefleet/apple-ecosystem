@@ -3,6 +3,8 @@
         "fontawesome",
         "greensock",
         "gsap",
-        "minhcecilio"
+        "minhcecilio",
+        "opentype",
+        "translatex"
     ]
 }

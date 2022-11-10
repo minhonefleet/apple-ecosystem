@@ -12,6 +12,8 @@
 :root {
     font-size      : 62.5%;
     scroll-behavior: smooth;
+    --day          : #ffffff;
+    --night        : #808080
 }
 
 li {
@@ -23,7 +25,8 @@ a {
 }
 
 a:hover {
-    text-decoration: underline;
+    text-decoration        : underline 1px;
+    text-underline-position: under;
 }
 
 img,

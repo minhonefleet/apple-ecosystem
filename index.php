@@ -6,7 +6,7 @@
     <meta http-equiv="X-UA-Compatible" content="ie=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title> Front-end Project </title>
-    <link rel="shortcut icon" href="./assets/img/apple/apple-logo-gray.png" type="image/x-icon">
+    <link rel="shortcut icon" href="./assets/img/apple/apple-logo.png" type="image/x-icon">
     <!-- Bootstrap icons v1.9.1 -->
     <link rel="stylesheet" href="./plugins/bootstrap-icons/bootstrap-icons.css">
     <!-- GreenSock (GASP) animation v3.11.1 -->
